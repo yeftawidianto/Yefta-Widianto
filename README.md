@@ -15,7 +15,7 @@ Profil Kenalan
 [<img align="left" alt="Data Enthusiast ID | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/youtube.svg"/>][youtube]
 [<img align="left" alt="anisaiue | instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/instagram.svg"/>][instagram]
 [<img align="left" alt="Anisa Anisa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="Anisa | Rpubs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/rstudio.svg"/>][rpubs]
+
 
 <br />
 <br />
@@ -33,9 +33,9 @@ Profil Kenalan
 <br />
 <br />
 
-<img align="left" alt="Anisa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anisaiue&show_icons=true&hide_border=true" />
+<img align="left" alt="Yefta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yeftawidianto&show_icons=true&hide_border=true" />
 
 [youtube]: https://www.youtube.com/channel/UCl14rz-fJMxA_psBEbyJ9_g
 [instagram]: https://www.instagram.com/yeftaw/
 [linkedin]: https://www.linkedin.com/in/yefta-widianto-2aa073148/
-[rpubs]: https://www.rpubs.com/anisanisa
+
